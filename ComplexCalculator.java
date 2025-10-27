@@ -90,4 +90,6 @@ public class ComplexCalculator {
         System.out.println("Result of \"" + expression1 + "\": " + calculator.evaluate(expression1));
         System.out.println("Result of \"" + expression2 + "\": " + calculator.evaluate(expression2));
     }
+
+        System.out.println("Result of \"" + expression1 + "\": " + calculator.evaluate(expression1));
 }
