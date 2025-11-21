@@ -15,6 +15,14 @@ public class ComplexCalculator {
     }
 
     public double evaluate(String expression) {
+
+.
+
+.
+
+
+
+
         // Remove whitespace for easier parsing
         expression = expression.replaceAll("\\s+", "");
 
